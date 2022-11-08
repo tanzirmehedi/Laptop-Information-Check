@@ -9,31 +9,31 @@
 
     Action: Task Manager (e.g., Task Manager -> Performace)
     
-# 3. Check Serial Number and validated its expire date via online (e.g., https://support.hp.com)
+## 3. Check Serial Number and validated its expire date via online (e.g., https://support.hp.com)
  
     Action: CMD : wmic bios get serialnumber (e.g., WinKey+R -> CMD -> wmic bios get serialnumber)
 
-# 4. Battery Checkup
+## 4. Battery Checkup
     
     Action: CMD : powercfg /batteryreport (e.g., WinKey+R -> CMD -> powercfg /batteryreport)
     
-# 5. Didplay Checkup
+## 5. Didplay Checkup
     
     Action: Open a browser then visit : https://www.eizo.be/monitor-test (Online software)
     
-# 6. Sound Checkup
+## 6. Sound Checkup
 
     Action: Control panel -> Sound configuration (Left Right speaker)
     
-# 7. Keyboad Checkup: 
+## 7. Keyboad Checkup: 
     
     Action: Open a browser and visit : https://www.keyboardtester.com/tester.html (Online software) 
     
-# 8. Camera, Internet (Wifi + LAN)
+## 8. Camera, Internet (Wifi + LAN)
     
     Action: Control Panel 
 
-# 9. Overall Hardware Check 
+## 9. Overall Hardware Check 
 
     Action: CMD : dmidecode 
     
