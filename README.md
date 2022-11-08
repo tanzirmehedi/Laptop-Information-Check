@@ -1,11 +1,11 @@
 
 # Laptop Information Check
 
-# 1. System Information Check (e.g., Born Date, Manufacture Date, Serial Number etc.) and check Serial number in online.
+## 1. System Information Check (e.g., Born Date, Manufacture Date, Serial Number etc.) and check Serial number in online.
      
     Action: BIOS (e.g., ESC Key -> F12)
      
-# 2. CPU + Max RAM Slot + HDD Check + Graphics Card
+## 2. CPU + Max RAM Slot + HDD Check + Graphics Card
 
     Action: Task Manager (e.g., Task Manager -> Performace)
     
